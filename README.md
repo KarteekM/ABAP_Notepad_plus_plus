@@ -14,7 +14,7 @@ There are already many UDLs available for ABAP. This UDL includes the following 
 	2) In the "User Defined Language" dialog click on "Import…".
 	3) Import the downloaded "abap.xml" file.
 	4) Now you should see a pop up that "Import is successful".
-    5)   Restart Notepad++. (Sometimes, it might be required). Go to the menu Language and you should be able to see "ABAP" as an option to choose.
+        5) Restart Notepad++. (Sometimes, it might be required). Go to the menu Language and you should be able to see "ABAP" as an option to choose.
 	
 # Credit:
 Couldn't find original orthers who contributed to the base UDL.
