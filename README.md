@@ -17,7 +17,7 @@ There are already many UDLs available for ABAP. This UDL includes the following 
 	5) Restart Notepad++. (Sometimes, it might be required). Go to the menu Language and you should be able to see "ABAP" as an option to choose.
 	
 # Credit:
-Couldn't find original orthers who contributed to the base UDL.
+Couldn't find original authors who contributed to the base UDL.
 
 # Contribution:
 I see there are many more key words which are still missing. Feel free to contribute by  creating a new pull request to and keep the UDL updated.
