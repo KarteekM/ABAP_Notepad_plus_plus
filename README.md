@@ -1,4 +1,4 @@
-# ABAP_for_Notepad++
+# ABAP for Notepad++
 
 The following XML file is a UDL(User Defined Language) for ABAP in Notepad++.
 Importing this file would make Notepad++ identify all the ABAP keywords.
@@ -20,4 +20,4 @@ There are already many UDLs available for ABAP. This UDL includes the following 
 Couldn't find original authors who contributed to the base UDL.
 
 # Contribution:
-I see there are many more key words which are still missing. Feel free to contribute by  creating a new pull request to and keep the UDL updated.
+I see there are many more key words which are still missing. Feel free to contribute by creating a new pull request to keep the UDL updated.
