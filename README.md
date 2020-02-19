@@ -5,9 +5,9 @@ Importing this file would make Notepad++ identify all the ABAP keywords.
 
 There are already many UDLs available for ABAP. This UDL includes the following features apart from already available ones:
 
-	• Modern ABAP key words.
+	• Modern ABAP keywords.
 	• RAP(Restful ABAP Programming) keywords.
-	• Missing key words in existing UDLs.
+	• Missing keywords in existing UDLs.
 
 # Steps to import:
 	1) Go to the Menu. Choose Language->User Defined Language->Define your Language.
@@ -20,4 +20,4 @@ There are already many UDLs available for ABAP. This UDL includes the following 
 Couldn't find original authors who contributed to the base UDL.
 
 # Contribution:
-I see there are many more key words which are still missing. Feel free to contribute by creating a new pull request to keep the UDL updated.
+There are many more key words which are still missing. Feel free to contribute by creating a new pull request to keep the UDL updated.
